@@ -8,15 +8,11 @@ Taylor Thornton
 
 Links and Resources
 
-ci/cd (GitHub Actions)
+[back-end server](https://tt-basic-api-server.herokuapp.com/)
 
-back-end server url (when applicable)
-
-front-end application (when applicable)
+[pull requests](https://github.com/thornrae/basic-api-server/pulls)
 
 **Setup**
-.env requirements (where applicable)
-i.e.
 
 PORT - 3333
 
